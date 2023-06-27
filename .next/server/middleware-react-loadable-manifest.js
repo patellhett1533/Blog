@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"_app.js -> @/components/Footer":{"id":"_app.js -> @/components/Footer","files":["static/chunks/components_Footer_js.js"]}}
